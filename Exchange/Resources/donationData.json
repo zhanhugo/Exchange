@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Hugo Zhan",
+        "nameDes": "Healthcare Partner",
+        "itemDes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "item": "Toilet Paper",
+        "quantity": 20,
+        "category": "Rivers",
+        "city": "Berkeley",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "toilet",
+        "url": ""
+    },
+    {
+        "name": "Dyllan Liu",
+        "nameDes": "Healthcare Partner",
+        "itemDes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "item": "Medical Masks",
+        "quantity": 20,
+        "category": "Lakes",
+        "city": "Berkeley",
+        "state": "California",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "masks",
+        "url": ""
+    },
+    {
+        "name": "Kenan Najjar",
+        "nameDes": "Healthcare Partner",
+        "itemDes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "item": "Medical Gloves",
+        "quantity": 20,
+        "category": "Lakes",
+        "city": "Berkeley",
+        "state": "California",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": -120.665167,
+            "latitude": 79.980167
+        },
+        "imageName": "nitrile-gloves-500x500",
+        "url": ""
+    }
+]
